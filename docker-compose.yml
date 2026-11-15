@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  # .NET Core API Service
+  backend-api:
+    build:
+      context: ./backend/dotnetAPI-ver-2/thirdYearProject
+      dockerfile: Dockerfile
+    container_name: typ_backend_api
+    restart: always
+    ports:
+      - "7060:7060"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    volumes:
+      - typ_uploads_data:/app/Uploads
+
+  # JavaScript Backend Service (Node.js)
+  backend-js:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: typ_backend_js
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=development
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+
+  # Frontend Service (React / Vite)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: typ_frontend
+    restart: always
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_DOTNET_API_URL=http://localhost:7060
+      - VITE_JS_API_URL=http://localhost:5000
+    depends_on:
+      - backend-api
+      - backend-js
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+
+# Persistent volumes for files
+volumes:
+  typ_uploads_data:

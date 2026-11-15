@@ -1,0 +1,64 @@
+import { useCallback, useEffect, useState } from "react";
+
+import {
+    getLearnerEnrollments,
+} from "../../services/kgs-services/LearningMaterialService";
+
+export default function useLearnerEnrollments(learnerId) {
+
+    const [enrollments, setEnrollments] = useState([]);
+
+    const [loading, setLoading] = useState(false);
+
+    const [error, setError] = useState("");
+
+    const loadEnrollments = useCallback(async () => {
+
+        if (!learnerId) return;
+
+        setLoading(true);
+        setError("");
+
+        try {
+
+            const data = await getLearnerEnrollments(
+                learnerId
+            );
+
+            setEnrollments(data);
+
+        }
+        catch (err) {
+
+            console.error(err);
+
+            setError("Failed to load learner enrollments.");
+
+        }
+        finally {
+
+            setLoading(false);
+
+        }
+
+    }, [learnerId]);
+
+    useEffect(() => {
+
+        loadEnrollments();
+
+    }, [loadEnrollments]);
+
+    return {
+
+        enrollments,
+
+        loading,
+
+        error,
+
+        loadEnrollments,
+
+    };
+
+}

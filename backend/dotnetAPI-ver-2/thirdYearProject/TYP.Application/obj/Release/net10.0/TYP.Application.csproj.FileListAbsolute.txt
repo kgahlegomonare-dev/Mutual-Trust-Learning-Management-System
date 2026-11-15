@@ -1,0 +1,15 @@
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\bin\Release\net10.0\TYP.Application.deps.json
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\bin\Release\net10.0\TYP.Application.dll
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\bin\Release\net10.0\TYP.Application.pdb
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\bin\Release\net10.0\TYP.Domain.dll
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\bin\Release\net10.0\TYP.Domain.pdb
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Application.csproj.AssemblyReference.cache
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Application.AssemblyInfoInputs.cache
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Application.AssemblyInfo.cs
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Application.csproj.CoreCompileInputs.cache
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Appl.D2D58516.Up2Date
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Application.dll
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\refint\TYP.Application.dll
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\TYP.Application.pdb
+C:\Software-Engineering\TYP\Kutlwanong-Learning-Management-System\backend\dotnetAPI-ver-2\thirdYearProject\TYP.Application\obj\Release\net10.0\ref\TYP.Application.dll

@@ -1,0 +1,16 @@
+/*=======ICON STYLING============*/
+/* src/components/MenuContent.css */
+
+/* Applied to the ListItem container */
+.menu-list-item {
+  display: block !important;
+}
+
+.menu-custom-icon {
+  width: 18px;
+  height: 24px;
+  opacity: 0.7;
+  display: block;        /* Prevents baseline alignment gaps */
+  margin: 0 auto;        /* Centers it within the ListItemIcon bounding box */
+  object-fit: contain;   /* Ensures vector proportions stay locked */
+}

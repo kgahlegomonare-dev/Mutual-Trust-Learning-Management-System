@@ -1,0 +1,62 @@
+backend/
+│
+├── routes/
+│   └── adminReportRoutes.js
+│
+├── controllers/
+│   └── adminReportController.js
+│
+├── services/
+│   └── adminReportService.js
+│
+├── repositories/
+│   └── adminReportRepository.js
+│
+├── utils/
+│   ├── csvExporter.js
+│   └── http.js
+│
+├── db/
+│   └── pool.js
+│
+└── server.js
+
+Flow:
+React AdminReports.jsx
+        ↓
+Express Route
+        ↓
+Controller
+        ↓
+Service
+        ↓
+Repository
+        ↓
+PostgreSQL
+
+Admin Report APIs:
+| Feature              | Endpoint                                      |
+| -------------------- | --------------------------------------------- |
+| KPI cards            | `GET /api/admin/reports/overview`             |
+| Centre performance   | `GET /api/admin/reports/centre-performance`   |
+| Attendance by centre | `GET /api/admin/reports/attendance-by-centre` |
+| Dropout trend        | `GET /api/admin/reports/dropout-trends`       |
+| Subject satisfaction | `GET /api/admin/reports/subject-satisfaction` |
+| Top students         | `GET /api/admin/reports/top-students`         |
+| All students         | `GET /api/admin/reports/students`             |
+| Export top students  | `GET /api/admin/reports/export/top-students`  |
+| Export all students  | `GET /api/admin/reports/export/students`      |
+
+
+I have altered the database with the following prompts:
+ALTER TABLE learners
+ADD COLUMN id_number VARCHAR(20) DEFAULT NULL,
+ADD COLUMN contact_number VARCHAR(20) DEFAULT NULL,
+ADD COLUMN gender VARCHAR(20) DEFAULT NULL;
+
+CREATE UNIQUE INDEX
+idx_learners_id_number
+ON learners(id_number)
+WHERE id_number IS NOT NULL;
+
+ran: npm install json2csv on the backend, The CSV package

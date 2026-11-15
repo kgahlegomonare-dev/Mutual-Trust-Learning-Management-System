@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\THIRD_YEAR_PROJECT_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1825571E-9518-7D79-ADE1-6300FE3077B9}|..\\TYP.api\\TYP.api.csproj|c:\\software-engineering\\root\\team16-main\\kutlwanong-learning-management-system-copy\\backend\\dotnetapi-ver-2\\thirdyearproject\\typ.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1825571E-9518-7D79-ADE1-6300FE3077B9}|..\\TYP.api\\TYP.api.csproj|c:\\software-engineering\\root\\team16-main\\kutlwanong-learning-management-system-copy\\backend\\dotnetapi-ver-2\\thirdyearproject\\typ.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1825571E-9518-7D79-ADE1-6300FE3077B9}|..\\TYP.api\\TYP.api.csproj|c:\\software-engineering\\root\\team16-main\\kutlwanong-learning-management-system-copy\\backend\\dotnetapi-ver-2\\thirdyearproject\\typ.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1825571E-9518-7D79-ADE1-6300FE3077B9}|..\\TYP.api\\TYP.api.csproj|c:\\software-engineering\\root\\team16-main\\kutlwanong-learning-management-system-copy\\backend\\dotnetapi-ver-2\\thirdyearproject\\typ.api\\controllers\\announcementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91FB1AD-2B60-BDD5-97C8-55D35D4E15FA}|..\\TYP.Application\\TYP.Application.csproj|c:\\software-engineering\\root\\team16-main\\kutlwanong-learning-management-system-copy\\backend\\dotnetapi-ver-2\\thirdyearproject\\typ.application\\services\\learningmaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6466CEC-908E-4909-D419-2C540845B19F}|..\\TYP.Infrastructure\\TYP.Infrastructure.csproj|c:\\software-engineering\\root\\team16-main\\kutlwanong-learning-management-system-copy\\backend\\dotnetapi-ver-2\\thirdyearproject\\typ.infrastructure\\repository\\learningmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\TYP.api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\TYP.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T17:54:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TYP.api\\appsettings.json",
+              "ToolTip": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\appsettings.json",
+              "RelativeToolTip": "..\\TYP.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T17:54:24.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TYP.api\\Program.cs",
+              "ToolTip": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\Program.cs",
+              "RelativeToolTip": "..\\TYP.api\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T17:48:01.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnnouncementController.cs",
+              "DocumentMoniker": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\Controllers\\AnnouncementController.cs",
+              "RelativeDocumentMoniker": "..\\TYP.api\\Controllers\\AnnouncementController.cs",
+              "ToolTip": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.api\\Controllers\\AnnouncementController.cs",
+              "RelativeToolTip": "..\\TYP.api\\Controllers\\AnnouncementController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAQwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T17:29:40.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LearningMaterialService.cs",
+              "DocumentMoniker": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.Application\\Services\\LearningMaterialService.cs",
+              "RelativeDocumentMoniker": "..\\TYP.Application\\Services\\LearningMaterialService.cs",
+              "ToolTip": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.Application\\Services\\LearningMaterialService.cs",
+              "RelativeToolTip": "..\\TYP.Application\\Services\\LearningMaterialService.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAowO0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T17:29:20.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LearningMaterialRepository.cs",
+              "DocumentMoniker": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.Infrastructure\\Repository\\LearningMaterialRepository.cs",
+              "RelativeDocumentMoniker": "..\\TYP.Infrastructure\\Repository\\LearningMaterialRepository.cs",
+              "ToolTip": "C:\\Software-Engineering\\Root\\Team16-Main\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.Infrastructure\\Repository\\LearningMaterialRepository.cs",
+              "RelativeToolTip": "..\\TYP.Infrastructure\\Repository\\LearningMaterialRepository.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAIwB8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T17:28:58.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

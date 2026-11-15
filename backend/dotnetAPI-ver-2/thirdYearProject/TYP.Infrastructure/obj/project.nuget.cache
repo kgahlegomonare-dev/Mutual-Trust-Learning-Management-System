@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhSzsNlEJH8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kgahl\\OneDrive\\Desktop\\Team16-Main-master\\Team16-Main-master\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.Infrastructure\\TYP.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kgahl\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.3.11\\microsoft.aspnetcore.hosting.2.3.11.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.3.10\\microsoft.aspnetcore.hosting.abstractions.2.3.10.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.3.9\\microsoft.aspnetcore.hosting.server.abstractions.2.3.9.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.11\\microsoft.aspnetcore.http.2.3.11.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.10\\microsoft.aspnetcore.http.abstractions.2.3.10.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.10\\microsoft.aspnetcore.http.extensions.2.3.10.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.9\\microsoft.aspnetcore.http.features.2.3.9.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.3.10\\microsoft.aspnetcore.webutilities.2.3.10.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.4\\microsoft.entityframeworkcore.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.4\\microsoft.entityframeworkcore.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.4\\microsoft.entityframeworkcore.analyzers.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.4\\microsoft.entityframeworkcore.relational.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.4\\microsoft.extensions.caching.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.4\\microsoft.extensions.caching.memory.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.4\\microsoft.extensions.configuration.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\8.0.0\\microsoft.extensions.configuration.environmentvariables.8.0.0.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.1\\microsoft.extensions.configuration.fileextensions.8.0.1.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.4\\microsoft.extensions.dependencyinjection.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.4\\microsoft.extensions.dependencyinjection.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.1\\microsoft.extensions.diagnostics.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.1\\microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.logging\\10.0.4\\microsoft.extensions.logging.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.4\\microsoft.extensions.logging.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.logging.debug\\8.0.1\\microsoft.extensions.logging.debug.8.0.1.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.11\\microsoft.extensions.objectpool.8.0.11.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.options\\10.0.4\\microsoft.extensions.options.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.4\\microsoft.extensions.primitives.10.0.4.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\microsoft.net.http.headers\\2.3.10\\microsoft.net.http.headers.2.3.10.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512",
+    "C:\\Users\\kgahl\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\10.0.2\\npgsql.entityframeworkcore.postgresql.10.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNetCore.WebUtilities' 2.3.10 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-6527-9fp8-r4x6",
+      "projectPath": "C:\\Users\\kgahl\\OneDrive\\Desktop\\Team16-Main-master\\Team16-Main-master\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.Infrastructure\\TYP.Infrastructure.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\kgahl\\OneDrive\\Desktop\\Team16-Main-master\\Team16-Main-master\\Kutlwanong-Learning-Management-System-Copy\\backend\\dotnetAPI-ver-2\\thirdYearProject\\TYP.Infrastructure\\TYP.Infrastructure.csproj",
+      "libraryId": "Microsoft.AspNetCore.WebUtilities",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
