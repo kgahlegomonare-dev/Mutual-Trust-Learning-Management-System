@@ -9,7 +9,7 @@ Centralized learning management system and automated early-warning engine built 
 ```text
 .
 ├── frontend/             # Client-side web application (React / Vite)
-├── backend/              # Backend services & .NET 10 Clean Architecture API
+├── backend/              # Javascript Backend services & .NET 10 Clean Architecture API
 │   └── dotnetAPI-ver-2/
 │       └── thirdYearProject/
 │           ├── TYP.Domain/
