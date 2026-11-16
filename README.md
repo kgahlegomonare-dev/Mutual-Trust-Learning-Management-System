@@ -1,4 +1,4 @@
-# Mutual Trust — Custom Learning Management System (LMS)
+# Mutual Trust, A Custom Learning Management System (LMS)
 
 Centralized learning management system and automated early-warning engine built for the **Kutlwanong Center for Mathematics, Science, and Technology**.
 
