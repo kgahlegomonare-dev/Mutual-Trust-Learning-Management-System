@@ -2,7 +2,19 @@
 
 Centralized learning management system and automated early-warning engine built for the **Kutlwanong Center for Mathematics, Science, and Technology**.
 
+Mutual Trust is a custom-built Learning Management System (LMS) and real-time organizational governance platform tailored to help the Kutlwanong Centre for Maths, Science and Technology centralize student data, monitor academic performance, and proactively intervene across its nationwide learning centres.
+
+
+
 ---
+
+# HOW TO RUN AND SEE A DEMO OF MUTUAL TRUST
+
+## LOGIN CREDENTIALS
+[ADMIN] ID: Password:
+[CENTER MANAGER] ID: Password:
+[TEACHER] ID: Password:
+[LEARNER] ID: Password:
 
 ## Project Structure
 
