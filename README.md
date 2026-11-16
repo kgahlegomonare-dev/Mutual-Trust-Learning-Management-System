@@ -11,10 +11,17 @@ Mutual Trust is a custom-built Learning Management System (LMS) and real-time or
 # HOW TO RUN AND SEE A DEMO OF MUTUAL TRUST
 
 ## LOGIN CREDENTIALS
-[ADMIN] ID: Password:
-[CENTER MANAGER] ID: Password:
-[TEACHER] ID: Password:
-[LEARNER] ID: Password:
+                                 USERNAME                                    PASSWORD                     
+  
+ADMIN:                         12345678901                                   123456
+
+CENTER MANAGER 1:              2694275586                                    123456
+
+TEACHER 1:                     603262135                                     123456
+
+TEACHER2:                      658714018                                     123456
+
+LEARNER 1:                     35032555                                      123456
 
 ## Project Structure
 
