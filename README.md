@@ -13,7 +13,7 @@ Mutual Trust is a custom-built Learning Management System (LMS) and real-time or
 ## LOGIN CREDENTIALS
                                  USERNAME                                    PASSWORD                     
   
-ADMIN:                         12345678901                                   123456
+ADMIN:                         12345678901                                      123456
 
 CENTER MANAGER 1:              2694275586                                    123456
 
